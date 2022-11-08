@@ -1,9 +1,33 @@
 1. Availability for meeting expectations
+Monday: 11:30 - 12:30, 5:30 - late
+Tuesday: 5:50 - late
+Wednesday: 5:30 - late
+Thursday: 2:00 - 4:10, 8:20 - late
+Friday: 2:30 - late
+Saturday: anytime
+Sunday: anytime
+
+monday, wednesday, friday
+
 2. Response time to communication expectations
+6 hours on weekday, 12 on weekends
+
 3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+Code is completed, tested, and verified by at least one other person
+
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+10-30 minutes: monday, wednesday, friday, possibly weekends
+checkin to discord daily
+
+
 5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) 
- a. if you adopt such a policy during the initial meeting, put it here
+agree upon one format and set that before starting to code
+majority vote, bring up at scrum meeting
+ 
 6. Procedure for handling a member who is not meeting expectations
- a. must include at least 3 actions before involving the instructor
+First talk to them, ask whats up, if consistently not meeting their expectations, come together as group and talk about it (re-deviding work, solutions, etc.)
+
+
+
 7 Signatures: each member must sign their name by typing their name at the bottom of the document.
+Samuel Walsh
