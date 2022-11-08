@@ -1,9 +1,21 @@
 1. Availability for meeting expectations
-2. Response time to communication expectations
-3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+
+2. 36 hours, except when there's a due date
+
+3. You are done with a task once it's merged into master
+
+4. Scrum every month
+
 5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) 
- a. if you adopt such a policy during the initial meeting, put it here
-6. Procedure for handling a member who is not meeting expectations
- a. must include at least 3 actions before involving the instructor
+ a. If you write bad code you are the one maintaining it
+ b. Autoformat code using default PyCharm settings
+ c. Treat warnings as errors
+ 
+6.  
+a. Wait
+b. Do their part if it's not on due date and assign them something else with a due date that's farther out
+c. Tell them in class or at lab to do their work
+d. Tell the professor that they aren't doing their part
+
 7 Signatures: each member must sign their name by typing their name at the bottom of the document.
+Hunter Montgomery
