@@ -1,9 +1,18 @@
 1. Availability for meeting expectations
+	Usually available after class or whatever
 2. Response time to communication expectations
+	I will probably forget to respond so please remind me
 3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+	Everyone agrees that the task is complete
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+	Weekly scrum
 5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates) 
- a. if you adopt such a policy during the initial meeting, put it here
+	Majority vote to change things
+	Check in on other people's code as needed
+	Codify tabs, not spaces
 6. Procedure for handling a member who is not meeting expectations
- a. must include at least 3 actions before involving the instructor
+	Tell them what their assignment is
+	Constantly pester them about it
+	Vote them off the island
 7 Signatures: each member must sign their name by typing their name at the bottom of the document.
+	
